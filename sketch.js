@@ -79,7 +79,7 @@ createCanvas(600, 200);
 
 function draw() {
   //set background color
-  background("white");
+  background("black");
   
   frameRate(60);
 
